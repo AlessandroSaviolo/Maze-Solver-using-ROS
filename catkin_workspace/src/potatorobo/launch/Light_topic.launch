@@ -1,0 +1,11 @@
+<launch>
+	<!--connect arduino-->
+	<!--node name="connect_arduino" pkg="rosserial_python" type="serial_node.py">
+		<param name="~baud" type="int" value="57600" />
+		<param name="~port" type="string" value="/dev/ttyACM0" />
+	</node-->
+	<!--node name="name" pkg="potatorobo" type="Executive file" /-->
+	<node name="publisher" pkg="potatorobo" type="publisher" output="screen"></node>
+	<node name="subscriber" pkg="potatorobo" type="subscriber"></node>
+</launch>
+
