@@ -1,6 +1,6 @@
 # Maze Solver using ROS
 
-This work is the final project for the course _Computer Vision_ that I attended during my master degree at Department of Information Engineering (Padova, Italy). See `report.pdf` for the report containing the description of the presented algorithm and the analysis of the produced results.
+This work is the final project for the course _Mobile Robots_ that I attended during my exchange at Department of Information Engineering (Padova, Italy). See `report.pdf` for the report containing the description of the presented algorithm and the analysis of the produced results.
 
 The purpose of this project is to implement a shadow detector.
 
