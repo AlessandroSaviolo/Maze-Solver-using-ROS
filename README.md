@@ -20,7 +20,7 @@ The following sensors have been used to assemble the robot:
 
 The following moving patterns have been implemented to allow the robot to smartly move in the maze:
 
-- Turning Left around the corner: [video](https://drive.google.com/open?id=1uL91m3qKWXh3cAUHWBK753OTw1f-OLUo)
+- Turning Left around the Corner: [video](https://drive.google.com/open?id=1uL91m3qKWXh3cAUHWBK753OTw1f-OLUo)
 
 - Turning Right away from the Wall: [video](https://drive.google.com/open?id=13IyM1QUc8puFO04YyQsOi69TPIz-a-xj)
 
@@ -37,5 +37,5 @@ By using these moving patterns the robot is able to solve the maze (find the LED
  ## 3. Flow Chart
  
  <p align="center"> 
-    <img src="https://github.com/AlessandroSaviolo/Maze-Solver-using-ROS/blob/master/flowchart.jpg" width="300">
+    <img src="https://github.com/AlessandroSaviolo/Maze-Solver-using-ROS/blob/master/flowchart.jpg" width="1000">
  </p>
