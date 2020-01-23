@@ -5,7 +5,7 @@ This work is the final project for the course _Mobile Robots_ that I attended du
 The purpose of this project is to assemble a robot and implement the algorithm for making the robot smartly move in a maze and find a LED puck. Both Raspberry Pi and Arduino are used.
 
 <p align="center"> 
-    <img src="https://github.com/AlessandroSaviolo/Maze-Solver-using-ROS/blob/master/robot.png" width="600">
+    <img src="https://github.com/AlessandroSaviolo/Maze-Solver-using-ROS/blob/master/robot.png" width="300">
  </p>
 
 ## 1. Sensors
