@@ -1,16 +1,20 @@
 # Maze Solver using ROS
 
-This work is the final project for the course _Mobile Robots_ that I attended during my exchange at Department of Information Engineering (Padova, Italy). See `report.pdf` for the report containing the description of the presented algorithm and the analysis of the produced results.
+This work is the final project for the course _Mobile Robots_ that I attended during my exchange program at National Chiao Tung University (Taiwan).
 
-The purpose of this project is to implement a shadow detector.
+The purpose of this project is to assemble a robot and implement the algorithm for making the robot smartly move in a maze and find a LED puck. Both Raspberry Pi and Arduino are used.
 
-## 1. Assumptions
+<p align="center"> 
+    <img src="https://github.com/AlessandroSaviolo/Maze-Solver-using-ROS/blob/master/robot.png" width="600">
+ </p>
 
-The shadow detector is developed under the following assumptions:
+## 1. Sensors
 
-- One strong source of light (dataset images are all outdoor images where the only source of light is the sun)
+The following sensors have been used to assemble the robot:
 
-- Focus on ground shadows
+- 1 Light Sensor
+
+- 3 Ultrasonic Distance Sensor
 
 ## 2. Dataset
 
