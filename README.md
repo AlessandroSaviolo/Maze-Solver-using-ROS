@@ -32,7 +32,7 @@ In order to drive forward along a wall, the wheels speed must be adjusted consta
     <img src="https://github.com/AlessandroSaviolo/Maze-Solver-using-ROS/blob/master/formula.png" width="300">
  </p>
  
-By using these moving patterns the robot is able to solve the maze (find the LED puck). [Example](https://drive.google.com/open?id=1TgJsNmxUYT0vSp0hUjnV_xIgBrioQ4Jq).
+By using these moving patterns the robot is able to solve the maze (find the LED puck). [Example](https://drive.google.com/open?id=1-Kx9mA5S-UhEnGjChlHMnuGxu_Cgq6-G).
  
  ## 3. Flow Chart
  
